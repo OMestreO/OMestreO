@@ -1,9 +1,12 @@
-## Bem-vindo(a) ao perfil do Mestre 😁
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=696969&size=35&center=true&vCenter=true&width=1000&lines=Olá,+meu+nome+é+Paulo+Ricardo;Tenho+17+anos;Sou+Brasileiro;E+estudo+Desenvolvimento+de+Sistemas;Na+ETE+Ministro+Fernando+Lyra;+Seja+Bem+Vindo!+:%29)](https://git.io/typing-svg)
 
- <div>
+<br>
+<br>
+
+ <div aling="center">
    <a href="https://github.com/OMestreO">
-   <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=OMestreO&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-   <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=OMestreO&layout=compact&langs_count=6&theme=tokyonight"/>
+   <img width="49%" height="195px" src="https://github-readme-stats-sigma-five.vercel.app/api?username=OMestreO&show_icons=true&theme=onedark&include_all_commits=true&count_private=true"/>
+   <img width="49%" height="195px" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=OMestreO&layout=compact&langs_count=6&theme=onedark"/>
 
 </div>
 <div style="display: inline_block"><br>
