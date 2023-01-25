@@ -6,7 +6,7 @@
  <div aling="center">
    <a href="https://github.com/OMestreO">
    <img width="49%" height="195px" src="https://github-readme-stats-sigma-five.vercel.app/api?username=OMestreO&show_icons=true&theme=onedark&include_all_commits=true&count_private=true"/>
-   <img width="41%" height="195px" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=OMestreO&layout=compact&langs_count=6&theme=onedark"/>
+   <img width="40%" height="195px" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=OMestreO&layout=compact&langs_count=6&theme=onedark"/>
 
 </div>
 <div style="display: inline_block"><br>
